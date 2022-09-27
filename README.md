@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RasyidAcid
 - 👀 I’m interested in programming and startup
-- 🌱 I’m currently learning PHP,Javascript,React JS,Dart, Laravel
+- 🌱 I’m currently learning PHP,Javascript,React JS,Flutter, Laravel
 - 📫 How to reach me, my ig @mhmaddrasyid
 
 <!---
