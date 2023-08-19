@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RasyidAcid
 - 👀 I’m interested in programming and startup
-- 🌱 I’m currently learning Laravel, Node JS
+- 🌱 I’m currently learning Laravel, Node JS, Java
 - 📫 How to reach me, my ig @mhmaddrasyid
 
 <!---
